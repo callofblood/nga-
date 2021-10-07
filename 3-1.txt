@@ -1,0 +1,5 @@
+{{Hide
+|标题=舰种缩写
+|内容=
+<ul><li>BB系=BB(低速战舰)+BBV(航空战舰)+FBB(巡洋战舰，包括高速战舰和甘古特)<br/><li>CV系=CV(正规空母)+CVB(装甲空母)+CVL(轻空母)<br/><li>CA系=CA(重巡洋舰)+CAV(航空巡洋舰)<br/><li>CL系=CL(轻巡洋舰，包括哥特兰、亚特兰大、夕张改二等特殊轻巡)+CLT(重雷装巡洋舰)+CT(练习巡洋舰)<br/><li>SS系=SS(潜水舰)+SSV(潜水空母)<br/><li>AS=潜水母舰<br/><li>AV=水上机母舰<br/><li>AO=补给舰<br/><li>AR=工作舰<br/><li>LHA=登陆舰<br/><li>DD=驱逐舰<br/><li>DE=海防舰<br/></ul>
+}}<table style='text-align: left' class='wikitable'  ><tr> <td>分歧点</td> <td>条件</td> </tr><tr> <td><b><span style="color:red">C</span></b></td><td><ul><li>DD+DE&lt;=1 去D<br/><li>BBV+AV+AO+AS+CL&gt;=3：50%去B<br/><li>BB系+CV系&gt;=3 去D<br/><li>AV+AO+AS=0 去F<br/><li>DD+DE=2 去F<br/><li>其余50%去B，50%去F<br/></ul></td> </tr><tr> <td><b><span style="color:red">D</span></b></td><td><ul><li>BB系+CV系&gt;=5 去E<br/><li>SS系=6 去E<br/><li>AS=1 且 SS系=5 去G<br/><li>其余去F<br/></ul></td> </tr></table><div>转自nga梦美:https://bbs.nga.cn/read.php?pid=330615632</div>

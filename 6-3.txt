@@ -1,0 +1,5 @@
+{{Hide
+|标题=舰种缩写
+|内容=
+<ul><li>BB系=BB(低速战舰)+BBV(航空战舰)+FBB(巡洋战舰，包括高速战舰和甘古特)<br/><li>CV系=CV(正规空母)+CVB(装甲空母)+CVL(轻空母)<br/><li>CA系=CA(重巡洋舰)+CAV(航空巡洋舰)<br/><li>CL系=CL(轻巡洋舰，包括哥特兰、亚特兰大、夕张改二等特殊轻巡)+CLT(重雷装巡洋舰)+CT(练习巡洋舰)<br/><li>SS系=SS(潜水舰)+SSV(潜水空母)<br/><li>AS=潜水母舰<br/><li>AV=水上机母舰<br/><li>AO=补给舰<br/><li>AR=工作舰<br/><li>LHA=登陆舰<br/><li>DD=驱逐舰<br/><li>DE=海防舰<br/></ul>
+}}<table style='text-align: left' class='wikitable'  ><tr> <td>分歧点</td> <td>条件</td> </tr><tr> <td><b><span style="color:red">E</span></b></td><td><ul><li>CL&gt;=3 去F<br/><li>AV&gt;=2 去F<br/><li>CL&lt;=1 且 DD&gt;=3 去G<br/><li>其余60%去F，40%去G<br/></ul></td> </tr><tr> <td><b><span style="color:green">H</span></b></td><td><ul><li>分歧点系数=3<br/>索敌&gt;=38 去J(司令部系数0.35，索敌&gt;=44)<br/>索敌36~38 随机去J/I<br/>索敌&lt;36 去I<br/></ul></td> </tr></table><div>转自nga梦美:https://bbs.nga.cn/read.php?pid=330616602</div>
