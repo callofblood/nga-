@@ -26,6 +26,7 @@ jobs:
           git config --global user.name "callofblood"
           pip install requests
           pip install bs4
+          pip install lxml
           python regular.py
           git config --global user.email 353783986@qq.com
           git config --global user.name callofblood
